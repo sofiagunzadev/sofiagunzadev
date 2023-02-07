@@ -17,6 +17,7 @@
    <img align="center" alt="Rafa-Wp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
    <img align="center" alt="Rafa-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
    <img align="center" alt="Rafa-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+   <img align="center" alt="Rafa-Xd" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
  
  </div>
 
