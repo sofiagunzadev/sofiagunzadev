@@ -1,4 +1,4 @@
-### Olá! Eu sou Sofia Gunza, seja bem vindo(a) ao meu perfil 👋
+<h3>👋Prazer! Sofia Gunza</h3>
 
 
 
