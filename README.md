@@ -6,12 +6,16 @@
 
 <h4>💻 Tecnologias & Skills</h4>
 
-- 🖥️ HTML 
-- 👯 CSS
-- 💡 JS ...
-- 💻 GIT E GITHUB...
-- 📫 ILUSTRATOR ...
-- 💬 FIGMA...
+-  HTML 
+-  CSS
+-  JS 
+-  GIT E GITHUB
+-  ILUSTRATOR 
+-  FIGMA
+-  QUALIDADE DE SOFTWARE
+-  UX | UI DESIGN
+-  EMPREENDEDORISMO - NEGÓCIOS
+-  MARKETING DIGITAL
 
 
 
