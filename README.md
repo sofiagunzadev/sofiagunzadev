@@ -1,24 +1,19 @@
-<h3>👋Prazer! Sofia Gunza</h3>
+<h3>👩‍🦱  Prazer! Sofia Gunza</h3>
+
+<p>✔️ Um Software deve ser bonito, fácil de usar e funcional.</p>
+
+##
+
+<h4>💻 Tecnologias & Skills</h4>
+
+- 🔭 HTML 
+- 👯 CSS
+- 🤔 JS ...
+- 💻 GIT E GITHUB...
+- 📫 ILUSTRATOR ...
+- 💬 FIGMA...
 
 
-
-- 🔭 Estou trabalhando com desenvolvimento web ...
-- 👯 Wordpress...
-- 🤔 HTML ...
-- 💬 CSS ...
-- 📫 JS ...
-
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="Rafa-Wp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-   <img align="center" alt="Rafa-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
-   <img align="center" alt="Rafa-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-   <img align="center" alt="Rafa-Xd" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
- 
- </div>
 
 ##
 
