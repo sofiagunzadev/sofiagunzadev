@@ -8,7 +8,7 @@ Actualmente focada em elevar a produtividade de equipas através de **Gestão Pe
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofiagunza_dev)
 
 ---
-**`A responsabilidade é sua. Assuma o controle da sua carreira e do seu código.”* — **The Pragmatic Programmer`**
+*`A responsabilidade é sua. Assuma o controle da sua carreira e do seu código.”* — **The Pragmatic Programmer`*
 
 ---
 
