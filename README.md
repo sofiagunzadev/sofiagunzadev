@@ -1,5 +1,5 @@
 #👩🏻‍💻 Sofia Gunza
-
+---
 **`Desenvolvedora Front-end & Gestora Pragmática`**
 
 Actualmente focada em elevar a produtividade de equipas através de **Gestão Pessoal para Devs** e soluções de **Marketing**.
