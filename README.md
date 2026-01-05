@@ -1,4 +1,4 @@
-#👩🏻‍💻 Sofia Gunza
+👩🏻‍💻 Sofia Gunza
 ---
 **`Desenvolvedora Front-end & Gestora Pragmática`**
 
@@ -53,19 +53,19 @@ Actualmente focada em elevar a produtividade de equipas através de **Gestão Pe
 
 
 ---
-## 🎯 FOCO  ACTUAL(2025-2026)
-- ** Gestão pessoal para desenvolvedores.
-- ** Gestão de Códigos 
-- ** Soluções de Marketing e Automação.
+## 🎯 FOCO  ACTUAL (2025-2026)
+-  Gestão pessoal para desenvolvedores.
+- Gestão de Códigos 
+- Soluções de Marketing e Automação.
 
 
 ## TOOLBOX
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Gestão ** | Agile, Kanban, Notion, ClickUp |
-| **Código ** | JavaScript, Reactt |
-| **Marketing** | SEO, Conteúdo, Análise Métricas |
+| Gestão  | Agile, Kanban, Notion, ClickUp |
+| Código  | JavaScript, React |
+| Marketing | SEO, Conteúdo, Análise Métricas |
 
 
 
