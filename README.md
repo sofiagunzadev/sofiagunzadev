@@ -1,8 +1,14 @@
-# Olá, eu sou o [Sofia Gunza]
+#👩🏻‍💻 Sofia Gunza
+**`Desenvolvedora Front-end & Gestora Pragmática`**
 
-### Desenvolvedora Front-end & Gestora Pragmática.
 Actualmente focada em elevar a produtividade de equipas através de **Gestão Pessoal para Devs** e soluções de **Marketing**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofiagunza_dev)
+
+---
+
+*“A responsabilidade é sua. Assuma o controle da sua carreira e do seu código.”* — **The Pragmatic Programmer**
 ---
 
 ## 🎯 FOCO  ACTUAL(2025-2026)
@@ -45,10 +51,4 @@ Aqui estão algumas métricas dinâmicas do meu ecossistema de desenvolvimento:
 
 ---
 
-## 📫 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_INSTAGRAM)
 
----
-
-*“A responsabilidade é sua. Assuma o controle da sua carreira e do seu código.”* — **The Pragmatic Programmer**
