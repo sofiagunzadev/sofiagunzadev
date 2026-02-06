@@ -5,13 +5,6 @@
 Actualmente focada em elevar a produtividade de equipas através de **Gestão Pessoal para Devs** e soluções de **Marketing**.
 
 ## Tecnologias / Código & Gestão 
-
-
-
-
-
-
-
 ###
 
 <div align="center">
