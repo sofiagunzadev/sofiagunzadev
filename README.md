@@ -2,7 +2,9 @@
 ---
 **`Desenvolvedora Front-end & UI/UX Designer`**
 
-Actualmente focada em elevar a produtividade de equipas através de **Gestão Pessoal para Devs** e soluções de **Marketing**.
+Desenvolvedora Frontend em evolução, especializada em construção de landing pages, interfaces responsivas e experiências digitais focadas em conversão.
+
+Atualmente a desenvolver projetos como o NEXORA Expo, uma landing page de evento fictício de tecnologia e negócios, com foco em UI/UX e estratégias de marketing digital.
 
 ## Tecnologias / Código & Gestão 
 
