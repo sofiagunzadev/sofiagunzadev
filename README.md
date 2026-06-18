@@ -33,9 +33,7 @@ Atualmente a desenvolver projetos como o NEXORA Expo, uma landing page de evento
 
 ---
 ## 🎯 FOCO  ACTUAL (2025-2026)
--  Gestão pessoal para desenvolvedores.
-- Gestão de Códigos 
-- Soluções de Marketing e Automação.
+-  Desenvolvimento Frontend (HTML, CSS, JavaScript e React), UI/UX, acessibilidade e criação de landing pages e soluções digitais orientadas à experiência do utilizador e conversão.
 
 
 
