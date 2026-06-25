@@ -4,7 +4,7 @@
 
 Desenvolvedora Frontend em evolução, especializada em construção de landing pages, interfaces responsivas e experiências digitais focadas em conversão.
 
-Atualmente a desenvolver projetos como o NEXORA Expo, uma landing page de evento fictício de tecnologia e negócios, com foco em UI/UX e estratégias de marketing digital.
+Atualmente a desenvolver projetos como o NEXORA Expo, uma landing page de evento fictício de tecnologia e negócios inspirado na FILDA, e FinaK landing page de workshop de finanças com foco em UI/UX e estratégias de marketing digital.
 
 ## Tecnologias / Código & Gestão 
 
