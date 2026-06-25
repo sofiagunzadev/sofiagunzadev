@@ -8,7 +8,7 @@ Atualmente a desenvolver projetos como o NEXORA Expo, uma landing page de evento
 
 ## Link do projecto 
 
-https://landing-page-evento.netlify.app
+https://landing-page-evento.netlify.app/
 
 ## Tecnologias / Código & Gestão 
 
