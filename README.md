@@ -35,5 +35,5 @@ Desenvolver soluções de software que combinem qualidade técnica, compreensão
 
 CONTACTO 
 
-LinkedIn: https://linkedin/in/sofia-gunza-dev
+LinkedIn: https://linkedin.com/in/sofia-gunza-dev
 E-mail: sofiagunza16@gmail.com
