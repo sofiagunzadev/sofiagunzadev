@@ -35,5 +35,6 @@ Desenvolver soluções de software que combinem qualidade técnica, compreensão
 
 CONTACTO 
 
+Site portfólio: https://sofia-gunza-portfolio.netlify.app 
 LinkedIn: https://linkedin.com/in/sofia-gunza-dev
 E-mail: sofiagunza16@gmail.com
